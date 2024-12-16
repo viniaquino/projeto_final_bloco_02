@@ -88,7 +88,6 @@ INDEX VERSION 1.134+C:\dev\sistema-farmacia\.metadata\.plugins\org.eclipse.jdt.c
 3550821748.index
 976950125.index
 2403594403.index
-1279985005.index
 3839379699.index
 659320451.index
 4052043096.index
