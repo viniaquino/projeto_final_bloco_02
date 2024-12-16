@@ -1,0 +1,5 @@
+package com.generation.sisfarmacia.repository;
+
+public interface CategoriaRepository {
+
+}

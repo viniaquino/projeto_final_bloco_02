@@ -1,0 +1,5 @@
+package com.generation.sisfarmacia.controller;
+
+public class ProdutoController {
+
+}
